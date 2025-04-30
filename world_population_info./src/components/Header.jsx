@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { TbMenu3 } from "react-icons/tb";
+import navlogo from "../../public/logo.gif";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
@@ -18,7 +19,7 @@ const Header = () => {
         {/* Logo  */}
         <div className="flex items-center cursor-pointer">
           <figure>
-            <img src="../../public/logo.gif" alt="" className="w-12 h-12"/>
+            <img src={navlogo} alt="" className="w-12 h-12" />
           </figure>
         </div>
         {/* Desktop NavBar  */}

@@ -1,5 +1,6 @@
 import React from 'react'
 import { FaLongArrowAltRight } from "react-icons/fa";
+import HeroImg from "../../public/world.webp" 
 const HeroSection = () => {
   return (
     <section className="Home pt-44 h-screen">
@@ -18,7 +19,7 @@ const HeroSection = () => {
               </div>
               <div className="w-full md:w-1/2 order-1 md:order-2">
                 <figure>
-                    <img src="../../public/world.webp" alt="world" className="w-full opacity-70 hover:opacity-100 cursor-pointer pt-2 md:pt-10" />
+                    <img src={HeroImg} alt="world" className="w-full opacity-70 hover:opacity-100 cursor-pointer pt-2 md:pt-10" />
                 </figure>
               </div>
             </div>
