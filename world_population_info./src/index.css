@@ -1,0 +1,41 @@
+@import "tailwindcss";
+/* Urbanist Font  */
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+  @apply bg-black;
+}
+
+.container{
+    margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color: #ffffff;
+    font-family: 'Urbanist', sans-serif;
+}
+p{
+    color: #ababab;
+    font-family: 'Urbanist', sans-serif;
+}
+span {
+    color: gray;
+    
+}
+.hover-1{
+    padding: 10px 35px;
+    background-color: #0066ff;
+    border-radius: 25px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border: none;
+    outline: none;
+    color: #ffffff;
+}
+.hover-1:hover{
+    background-color: #fff;
+    color: #0066ff;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+

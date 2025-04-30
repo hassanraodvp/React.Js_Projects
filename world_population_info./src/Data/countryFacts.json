@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "name": "Japan",
+      "capital": "Tokyo",
+      "population": "12.58 crore",
+      "interesting_fact": "Japan has more than 6,800 islands."
+    },
+    {
+      "id": 2,
+      "name": "Brazil",
+      "capital": "Brasília",
+      "population": "21.43 crore",
+      "interesting_fact": "Brazil is home to the Amazon Rainforest."
+    },
+    {
+      "id": 3,
+      "name": "Canada",
+      "capital": "Ottawa",
+      "population": "3.89 crore",
+      "interesting_fact": "Canada has the longest coastline in the world."
+    },
+    {
+      "id": 4,
+      "name": "India",
+      "capital": "New Delhi",
+      "population": "142.8 crore",
+      "interesting_fact": "India is the world's largest democracy."
+    },
+    {
+      "id": 5,
+      "name": "Australia",
+      "capital": "Canberra",
+      "population": "2.67 crore",
+      "interesting_fact": "Australia is the only country that is also a continent."
+    },
+    {
+      "id": 6,
+      "name": "Egypt",
+      "capital": "Cairo",
+      "population": "11.1 crore",
+      "interesting_fact": "The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 7,
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": "8.3 crore",
+      "interesting_fact": "Germany is known for its engineering and automobile industry."
+    },
+    {
+      "id": 8,
+      "name": "Kenya",
+      "capital": "Nairobi",
+      "population": "5.5 crore",
+      "interesting_fact": "Kenya is famous for its wildlife safaris and athletes."
+    },
+    {
+      "id": 9,
+      "name": "South Korea",
+      "capital": "Seoul",
+      "population": "5.2 crore",
+      "interesting_fact": "South Korea is one of the most technologically advanced countries."
+    },
+    {
+      "id": 10,
+      "name": "France",
+      "capital": "Paris",
+      "population": "6.8 crore",
+      "interesting_fact": "France is the most visited country in the world."
+    },
+    {
+      "id": 11,
+      "name": "Pakistan",
+      "capital": "Islamabad",
+      "population": "24.15 crore",
+      "interesting_fact": "Pakistan is home to the world's second-highest mountain, K2."
+    }
+  ]
+  
