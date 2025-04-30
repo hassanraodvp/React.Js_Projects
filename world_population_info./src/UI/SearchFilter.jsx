@@ -1,5 +1,4 @@
 import React from "react";
-import { FaSortDown } from "react-icons/fa";
 
 const SearchFilter = ({search, setSearch, filter, setFilter, countries, setCountries}) => {
   const handleSearch = (e) => {
@@ -21,7 +20,7 @@ const SearchFilter = ({search, setSearch, filter, setFilter, countries, setCount
     
   }
   return (
-    <div className="flex justify-between gap-5 md:gap-10 items-center mb-10">
+    <div className="flex flex-col md:flex-row justify-between gap-5 md:gap-10 items-center mb-10">
       <div>
         <input type="text" value={search} onChange={handleSearch} placeholder="Search" className="px-5 md:px-10 py-3 bg-transparent border border-gray-300 rounded-md text-white"/>
       </div>
